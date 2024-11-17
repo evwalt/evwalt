@@ -10,4 +10,4 @@ Lately, I've been exploring [LazyVim](https://www.lazyvim.org); [Arch Linux](htt
 
 I really enjoy my [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep) tented nearly vertically with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout and [QMK](https://qmk.fm) customizations 🤓.
 
-Other than coding, I enjoy fitness 💪🏻, hiking 🥾, traveling ✈️, outdoor activities 🌊, and hanging out with family and friends 👨‍👩‍👧‍👦.
+Other than coding 👨🏼‍💻, I enjoy fitness 💪🏻, hiking 🥾, traveling ✈️, outdoor activities 🌊, and hanging out with family and friends 👨‍👩‍👧‍👦.
