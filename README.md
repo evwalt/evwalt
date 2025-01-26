@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋🏻
 
-I currently work as a Full Stack Engineer at [Deloitte](https://www.deloitte.com/global/en.html). I specialize in TypeScript, React, and Node.js.
+I currently work as a Full Stack Engineer. I specialize in TypeScript, React, and Tailwind CSS.
 
 I had the privilege of appearing as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
 
