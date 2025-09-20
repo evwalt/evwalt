@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋🏼
 
-I currently work as a Full-Stack Engineer. I specialize in TypeScript, React, Tailwind CSS, and web technologies.
+I enjoy working as a Full-Stack Software Engineer. Experienced in building scalable, user-focused applications. Skilled in TypeScript, React, Python, and cloud platforms (AWS, GCP). Adept at designing frontend architectures, building APIs and services, and delivering responsive, data-rich applications with AI integration.
 
 I had the privilege of appearing as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
 
