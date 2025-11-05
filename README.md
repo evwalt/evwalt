@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋🏼
 
-Welcome! I really like coding and building software. My background is full-stack engineering with a frontend lean. In my professional experience, I've focused on building scalable, user-focused applications. Skilled in TypeScript, React, and Node.js. Adept at designing frontend architectures, building APIs and services, and delivering responsive, data-rich applications with AI integration.
+Welcome! I thoroughly enjoy coding and building software. My background is full-stack engineering with a frontend lean. In my professional experience, I've focused on building scalable, user-focused applications. Skilled in TypeScript, React, and Node.js. Adept at designing frontend architectures, building APIs and services, and delivering responsive, data-rich applications with AI integration.
 
 I had the privilege of appearing as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
 
