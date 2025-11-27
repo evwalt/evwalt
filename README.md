@@ -11,3 +11,20 @@ I really enjoy my tented [Ferris Sweep](https://github.com/davidphilipbarr/Sweep
 I'm also interested in programming languages like [Rust](https://www.rust-lang.org), [Go](https://go.dev), and [Java](https://dev.java).
 
 Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, traveling ✈️, outdoor activities 🌊, and hanging out with family and friends 👨‍👩‍👧‍👦.
+
+🔗 Evan-Specific Links
+
+- [Neovim config](https://github.com/evwalt/dotfiles/tree/main/.config/nvim)
+- [Hammerspoon config](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua)
+- [Appearance on The React Show](https://podcast.thereactshow.com/1764837/12142504)
+- [Talon fork](https://github.com/evwalt/talonhub-community)
+
+🔗 External Links
+
+- [lazy.nvim](https://github.com/folke/lazy.nvim)
+- [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
+- [Lily58 keyboard](https://github.com/kata0510/Lily58)
+- [Dvorak keyboard layout](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
+- [Rust programming language](https://www.rust-lang.org)
+- [Go programming language](https://go.dev)
+- [Java programming language](https://dev.java)
