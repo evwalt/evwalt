@@ -6,9 +6,7 @@ I had the privilege of appearing as a guest on [The React Show](https://podcast.
 
 I also enjoy CLI tools and ricing my dev environment with tools like Neovim ([lazy.nvim](https://github.com/folke/lazy.nvim)), window management with [Hammerspoon](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua), and [Talon](https://github.com/evwalt/talonhub-community). Check out [my Neovim config](https://github.com/evwalt/dotfiles/tree/main/.config/nvim)!
 
-I really enjoy my tented [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) keyboard and, as of recently, my [Lily58](https://github.com/kata0510/Lily58) with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) keyboard layout and my [QMK](https://qmk.fm) customizations 🤓.
-
-I'm also interested in programming languages like [Rust](https://www.rust-lang.org), [Go](https://go.dev), and [Java](https://dev.java).
+I really enjoy my tented [Lily58](https://github.com/kata0510/Lily58) keyboard with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) keyboard layout and my [QMK](https://qmk.fm) customizations 🤓. I previously used the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep).
 
 Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, traveling ✈️, outdoor activities 🌊, and hanging out with family and friends 👨‍👩‍👧‍👦.
 
@@ -25,6 +23,3 @@ Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, travel
 - [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
 - [Lily58 keyboard](https://github.com/kata0510/Lily58)
 - [Dvorak keyboard layout](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
-- [Rust programming language](https://www.rust-lang.org)
-- [Go programming language](https://go.dev)
-- [Java programming language](https://dev.java)
