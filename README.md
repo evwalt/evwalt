@@ -20,6 +20,6 @@ Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, travel
 🔗 External Links
 
 - [lazy.nvim](https://github.com/folke/lazy.nvim)
-- [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
 - [Lily58 keyboard](https://github.com/kata0510/Lily58)
 - [Dvorak keyboard layout](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
+- [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
