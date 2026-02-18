@@ -1,12 +1,12 @@
-# Hi, I'm Evan 👋🏼
+# Welcome 👋🏼
 
-Welcome! I thoroughly enjoy coding and building software. My background is front end engineering. In my professional experience, I've focused on building scalable, user-focused applications. Skilled in TypeScript and React. Adept at designing frontend architectures, integrating APIs and services, and delivering responsive, data-rich applications with AI integration.
+I thoroughly enjoy building software. I'm a software engineer with a frontend-leaning, full-stack focus and 5+ years of experience building scalable, accessible, and high-performance web applications with React and TypeScript. I design AI-powered systems that combine strong technical craft with product thinking, enabling products to scale reliably as teams and users grow.
 
-I had the privilege of appearing as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
+I appeared as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
 
-I also enjoy CLI tools and ricing my dev environment with tools like Neovim ([lazy.nvim](https://github.com/folke/lazy.nvim)), window management with [Hammerspoon](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua), and [Talon](https://github.com/evwalt/talonhub-community). Check out my [Neovim config](https://github.com/evwalt/dotfiles/tree/main/.config/nvim)!
+I enjoy building and using CLI tools and customizing my development environment with tools like Neovim ([lazy.nvim](https://github.com/folke/lazy.nvim)), window management via [Hammerspoon](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua), and voice-driven workflows with [Talon](https://github.com/evwalt/talonhub-community). You can view my [Neovim configuration here](https://github.com/evwalt/dotfiles/tree/main/.config/nvim).
 
-I really enjoy my tented [Lily58](https://github.com/kata0510/Lily58) keyboard with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) keyboard layout and my [QMK](https://qmk.fm) customizations 🤓. I previously used the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) keyboard.
+I use a tented [Lily58](https://github.com/kata0510/Lily58) keyboard with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout and custom [QMK](https://qmk.fm) firmware 🤓. Previously, I used the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep).
 
 Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, traveling ✈️, outdoor activities 🌊, and hanging out with family and friends 👨‍👩‍👧‍👦.
 
