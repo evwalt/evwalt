@@ -4,7 +4,7 @@ I thoroughly enjoy building software. I'm a software engineer with a frontend-le
 
 I appeared as a guest on [The React Show](https://podcast.thereactshow.com/1764837/12142504) podcast!
 
-I enjoy building and using CLI tools and customizing my development environment with tools like Neovim ([lazy.nvim](https://github.com/folke/lazy.nvim)), window management via [Hammerspoon](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua), and voice-driven workflows with [Talon](https://github.com/evwalt/talonhub-community). You can view my [Neovim configuration here](https://github.com/evwalt/dotfiles/tree/main/.config/nvim).
+I enjoy building and using CLI tools and customizing my development environment with tools like Neovim ([lazy.nvim](https://github.com/folke/lazy.nvim)), window management via [Hammerspoon](https://github.com/evan-walter/dotfiles/blob/main/.hammerspoon/init.lua), and voice-driven workflows with [Talon](https://github.com/evwalt/talonhub-community). I also enjoy using [Typst](https://typst.app), a modern, programmable typesetting system for generating structured documents like PDFs. You can view my [Neovim configuration here](https://github.com/evwalt/dotfiles/tree/main/.config/nvim).
 
 I use a tented [Lily58](https://github.com/kata0510/Lily58) keyboard with the [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) layout and custom [QMK](https://qmk.fm) firmware 🤓. Previously, I used the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep).
 
@@ -24,3 +24,4 @@ Other than coding 👨🏼‍💻, I enjoy fitness 💪🏼, hiking 🥾, travel
 - [Dvorak keyboard layout](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout)
 - [QMK](https://qmk.fm)
 - [Ferris Sweep keyboard](https://github.com/davidphilipbarr/Sweep)
+- [Typst](https://typst.app)
