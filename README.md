@@ -38,4 +38,4 @@ I was a guest on [The React Show](https://www.thereactshow.com/podcast/dvorak-vs
 
 ## Outside software
 
-Hiking, fitness, travel, and time with family and friends.
+Hiking ⛰️, fitness 💪, travel ✈️, and time with family and friends 👨‍👩‍👧‍👦.
