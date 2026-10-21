@@ -6,7 +6,7 @@ I'm a software engineer with 5+ years of experience building full-stack and AI-e
 
 As a Software Engineer at Deloitte, I built internal, AI-integrated web applications for federal and healthcare-adjacent clients:
 
-- Built Python-backed internal services and SQL data layers for clinical systems supporting 30,000+ users.
+- Built Python-backed internal services for clinical systems supporting 30,000+ users.
 - Built a full-stack agentic AI permitting application: FastAPI backend, React/TypeScript frontend, deployed on AWS (S3, DynamoDB, App Runner) with Terraform.
 - Built a cross-platform desktop app (React/TypeScript, Electron, Flask) that integrated LLM APIs into internal automation workflows.
 
@@ -14,10 +14,10 @@ Before that I built high-traffic e-commerce front ends (Next.js/Vue) and client 
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, Python, SQL, C#, Bash, and more
+- **Languages:** TypeScript, JavaScript, Python, and more
 - **Frontend:** React, Next.js
 - **Backend:** FastAPI, Flask, Node.js, REST APIs
-- **Cloud & data:** AWS (Lambda, S3, DynamoDB, App Runner), Terraform, Docker, SQL
+- **Cloud & data:** AWS (Lambda, S3, DynamoDB, App Runner), Terraform, Docker
 - **AI:** LLM APIs, structured output, AI-enabled automation
 
 ## Selected projects
