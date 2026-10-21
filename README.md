@@ -30,6 +30,7 @@ Recent work:
 
 A few more things I've built outside work:
 
+- [RLS Guard](https://rls-guard.evanwalter.dev/): A developer tool that audits Supabase/Postgres projects for missing or misconfigured Row-Level Security policies and generates ready-to-run remediation SQL, with analysis running entirely in the browser.
 - [opsflow-ai](https://github.com/evwalt/opsflow-ai): A full-stack app that turns unstructured operational requests into typed, schema-validated workflow and action-item objects using an LLM with structured output. `Next.js` · `TypeScript` · `LLM APIs` · `Zod`
 - [amazon-connect-contact-center](https://github.com/evwalt/amazon-connect-contact-center): A serverless Amazon Connect contact center that converts caller numbers to vanity numbers, ranks and stores them in DynamoDB, and shows recent call activity in a React dashboard. `Node.js` · `AWS Lambda` · `DynamoDB` · `API Gateway` · `AWS CDK` · `React`
 - [tactical-telemetry](https://github.com/evwalt/tactical-telemetry): A distributed system that simulates an unmanned vehicle streaming telemetry as Cursor-on-Target messages over UDP, with a ground station that tracks state and flags dropped, stale, and out-of-order packets. `C#` · `.NET` · `UDP` · `Serilog`
