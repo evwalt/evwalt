@@ -39,7 +39,7 @@ A few more things I've built outside work:
 
 I work in a keyboard-driven environment: [Neovim](https://github.com/evwalt/dotfiles/tree/main/.config/nvim) and [Hammerspoon](https://github.com/evwalt/dotfiles/blob/main/.hammerspoon/init.lua) for window management. I type in Dvorak on a tented [Lily58](https://github.com/kata0510/Lily58) with custom [QMK](https://qmk.fm) firmware, and use [Typst](https://typst.app) for structured PDFs. It's all in my [dotfiles](https://github.com/evwalt/dotfiles).
 
-I was a guest on [The React Show](https://www.thereactshow.com/podcast/dvorak-vs-qwerty-vim-vs-vscode-Rust-and-design-by-contract) talking keyboard layouts, editors, and Rust.
+I was a guest on [The React Show](https://www.thereactshow.com/podcast/dvorak-vs-qwerty-vim-vs-vscode-Rust-and-design-by-contract) talking keyboard layouts and editors.
 
 ## Outside software
 
