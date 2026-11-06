@@ -26,7 +26,6 @@ Recent work:
 
 - [GenaWatt](https://genawatt.com) (client project, October 2026): A web app that lets California electricity customers upload an SDG&E bill, see if they're overpaying, and pay to be moved to a better rate plan. Includes SharePoint (Microsoft Graph API) and Stripe integrations, with tests. `Next.js` · `TypeScript` · `Microsoft Graph` · `Stripe`
 - [Ambler](https://ambler.website) (independent venture, October 2026, unlaunched): A daily walking-route app. The prelaunch build has email signup, Postgres, analytics, and a Stripe pre-sale, running on Cloudflare Workers. `Next.js` · `Neon Postgres` · `PostHog` · `Stripe` · `Cloudflare Workers`
-- [Family Follow-Through](https://followthrough.evanwalter.dev) (September 2026): A personally delivered 14-day pilot that helps an independently living parent follow through on walks they already want to take.
 
 A few more things I've built outside work:
 
