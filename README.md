@@ -31,16 +31,16 @@ Recent work:
 
 A few more things I've built outside work:
 
-- [RLS Guard](https://rls-guard.evanwalter.dev/): A developer security tool that audits Supabase/Postgres projects for broken access control (missing or misconfigured Row-Level Security) and generates ready-to-run remediation SQL, with analysis running entirely in the browser.
-- [opsflow-ai](https://github.com/evwalt/opsflow-ai): A full-stack app that turns unstructured operational requests into typed, schema-validated workflow and action-item objects using an LLM with structured output. `Next.js` · `TypeScript` · `LLM APIs` · `Zod`
-- [amazon-connect-contact-center](https://github.com/evwalt/amazon-connect-contact-center): A serverless Amazon Connect contact center that converts caller numbers to vanity numbers, ranks and stores them in DynamoDB, and shows recent call activity in a React dashboard. `Node.js` · `AWS Lambda` · `DynamoDB` · `API Gateway` · `AWS CDK` · `React`
-- [tactical-telemetry](https://github.com/evwalt/tactical-telemetry): A distributed system that simulates an unmanned vehicle streaming telemetry as Cursor-on-Target messages over UDP, with a ground station that tracks state and flags dropped, stale, and out-of-order packets. `C#` · `.NET` · `UDP` · `Serilog`
+- [RLS Guard](https://rls-guard.evanwalter.dev/) (July 2026): A developer security tool that audits Supabase/Postgres projects for broken access control (missing or misconfigured Row-Level Security) and generates ready-to-run remediation SQL, with analysis running entirely in the browser.
+- [opsflow-ai](https://github.com/evwalt/opsflow-ai) (August 2026): A full-stack app that turns unstructured operational requests into typed, schema-validated workflow and action-item objects using an LLM with structured output. `Next.js` · `TypeScript` · `LLM APIs` · `Zod`
+- [amazon-connect-contact-center](https://github.com/evwalt/amazon-connect-contact-center) (June 2026): A serverless Amazon Connect contact center that converts caller numbers to vanity numbers, ranks and stores them in DynamoDB, and shows recent call activity in a React dashboard. `Node.js` · `AWS Lambda` · `DynamoDB` · `API Gateway` · `AWS CDK` · `React`
+- [tactical-telemetry](https://github.com/evwalt/tactical-telemetry) (August 2026): A distributed system that simulates an unmanned vehicle streaming telemetry as Cursor-on-Target messages over UDP, with a ground station that tracks state and flags dropped, stale, and out-of-order packets. `C#` · `.NET` · `UDP` · `Serilog`
 
 ## Setup & interests
 
-I work keyboard-first rather than mouse-first, and add voice where it's faster: I dictate with [Handy](https://github.com/cjpais/Handy) and [Whisper](https://github.com/openai/whisper), which works well for talking through tasks with AI tools. For the keyboard side I use [Neovim](https://github.com/evwalt/dotfiles/tree/main/.config/nvim) and [Hammerspoon](https://github.com/evwalt/dotfiles/blob/main/.hammerspoon/init.lua) for window management. I type in Dvorak on a tented [Lily58](https://github.com/kata0510/Lily58) with custom [QMK](https://qmk.fm) firmware, and use [Typst](https://typst.app) for structured PDFs. It's all in my [dotfiles](https://github.com/evwalt/dotfiles).
+I work keyboard-first rather than mouse-first, and add voice where it's faster: I dictate with [Handy](https://github.com/cjpais/Handy) for talking through tasks with AI tools. For the keyboard side I use [Neovim](https://github.com/evwalt/dotfiles/tree/main/.config/nvim) and [Hammerspoon](https://github.com/evwalt/dotfiles/blob/main/.hammerspoon/init.lua) for window management, all in my [dotfiles](https://github.com/evwalt/dotfiles). I type in Dvorak on a tented [Lily58](https://github.com/kata0510/Lily58) with custom [QMK](https://qmk.fm) firmware, and use [Typst](https://typst.app) for structured PDFs.
 
-I've been a guest on [The React Show](https://www.thereactshow.com/podcast/from-a-career-in-logic-gates-to-react-with-evan-walter) (my path from electrical engineering to React) and again to talk [keyboard layouts and editors](https://www.thereactshow.com/podcast/dvorak-vs-qwerty-vim-vs-vscode-Rust-and-design-by-contract).
+I've been a guest on [The React Show](https://www.thereactshow.com/podcast/from-a-career-in-logic-gates-to-react-with-evan-walter) to talk about my path from electrical engineering to software.
 
 ## Outside software
 
