@@ -1,16 +1,16 @@
 # Hi, I'm Evan
 
-I'm a software engineer with 5+ years of experience building full-stack and AI-enabled systems, now focused on product security and secure-by-design AI applications. I work across the stack in React/TypeScript and Python, and I build deterministic guardrails for the places where AI agents meet real systems: access control, untrusted input, and secrets. I came to software from an electrical engineering background.
+I'm a software engineer with 5+ years of experience shipping full-stack and AI applications, now focused on product security and secure-by-design AI applications. I work across the stack in React/TypeScript and Python, and I build deterministic guardrails for the places where AI agents meet real systems: access control, untrusted input, and secrets. I came to software from an electrical engineering background.
 
 ## Experience
 
-As a Software Engineer at Deloitte, I built internal, AI-integrated web applications for federal and healthcare-adjacent clients:
+As a Software Engineer at Deloitte (2023 to 2026), I worked on AI applications and clinical systems that handled sensitive client data:
 
-- Built Python-backed internal services for clinical systems supporting 30,000+ users.
-- Built a full-stack agentic AI permitting application: FastAPI backend, React/TypeScript frontend, deployed on AWS (S3, DynamoDB, App Runner) with Terraform.
-- Built a cross-platform desktop app (React/TypeScript, Electron, Flask) that integrated LLM APIs into internal automation workflows.
+- Led the frontend of a cross-platform Electron app (React/TypeScript, Python/Flask) in Deloitte's Cyber AI practice that runs LLMs on-device to score vendor risk. It was piloted with a Fortune 500 media client and cut a 10-hour review to 10 minutes.
+- Owned the API layer as sole full-stack engineer on an agentic AI permitting app: FastAPI backend, React/TypeScript frontend, deployed to AWS (S3, DynamoDB, App Runner) with Terraform.
+- Shipped the React notifications feature for Navy clinical systems serving 30,000+ users, integrated with a Java backend and PostgreSQL.
 
-Before that I built high-traffic e-commerce front ends (Next.js/Vue) and client dashboards and portals. B.S. in Electrical Engineering, George Mason University.
+Earlier, I shipped high-traffic e-commerce storefronts (Next.js/Vue) and React dashboards and client portals. B.S. in Electrical Engineering, George Mason University.
 
 ## What I work with
 
@@ -26,8 +26,8 @@ Before that I built high-traffic e-commerce front ends (Next.js/Vue) and client 
 Recent work:
 
 - [MCP Guardrail Gateway](https://github.com/evwalt/mcp-guardrail-gateway) (open source, November 2026): A deterministic security layer that wraps an LLM agent's tool calls with JWT session binding against cross-tenant access, SSRF defense, and secret/PII redaction, plus a red-team suite mapped to the OWASP Top 10 for LLMs and SAST/SCA/secret-scanning CI. `Python` · `MCP` · `Security`
-- [GenaWatt](https://genawatt.com) (client project, October 2026): A web app that lets California electricity customers upload an SDG&E bill, see if they're overpaying, and pay to be moved to a better rate plan. Includes SharePoint (Microsoft Graph API) and Stripe integrations, with tests. `Next.js` · `TypeScript` · `Microsoft Graph` · `Stripe`
-- [Ambler](https://ambler.website) (independent venture, October 2026, unlaunched): A daily walking-route app. The prelaunch build has email signup, Postgres, analytics, and a Stripe pre-sale, running on Cloudflare Workers. `Next.js` · `Neon Postgres` · `PostHog` · `Stripe` · `Cloudflare Workers`
+- [Genawatt Saver](https://genawatt.com) (client project, October 2026): A web app that lets California electricity customers upload an SDG&E bill, see if they're overpaying, and pay for a switch to a better rate plan. Includes SharePoint (Microsoft Graph API) and Stripe integrations. Sole engineer; launched two weeks after contract. `Next.js` · `TypeScript` · `Microsoft Graph` · `Stripe`
+- [Ambler](https://ambler.website) (independent venture, October 2026, unlaunched): A daily walking-route app. Prelaunch: email signup, Postgres, analytics, and a Stripe pre-sale, running on Cloudflare Workers. `Next.js` · `Neon Postgres` · `PostHog` · `Stripe` · `Cloudflare Workers`
 
 A few more things I've built outside work:
 
