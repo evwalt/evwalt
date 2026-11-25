@@ -12,7 +12,7 @@ As a Software Engineer at Deloitte (2023 to 2026), I worked on AI applications a
 
 Earlier, I shipped high-traffic e-commerce storefronts (Next.js/Vue) and React dashboards and client portals. B.S. in Electrical Engineering, George Mason University.
 
-## What I work with
+## What I Work With
 
 - **Languages:** TypeScript, JavaScript, Python
 - **Frontend:** React, Next.js, Vue, Electron, Tailwind
@@ -23,7 +23,7 @@ Earlier, I shipped high-traffic e-commerce storefronts (Next.js/Vue) and React d
 - **Security:** JWT/OAuth, access control, Postgres Row-Level Security, SSRF defense, secret/PII redaction, threat modeling (STRIDE), OWASP Top 10 for LLMs, SAST/SCA/secret-scanning CI
 - **Integrations:** Stripe, Microsoft Graph
 
-## Selected projects
+## Selected Projects
 
 Recent work:
 
@@ -39,18 +39,18 @@ A few more things I've built outside work:
 - [identity-sync-pipeline](https://github.com/evwalt/identity-sync-pipeline) (November 2026): An event-driven pipeline that syncs non-human identity changes (service accounts, API keys, AI agents) through Kafka into Postgres and serves access lookups over gRPC, with idempotent consumers, stale-event protection, and dead-letter handling. `Python` · `Kafka` · `PostgreSQL` · `gRPC`
 - [tactical-telemetry](https://github.com/evwalt/tactical-telemetry) (August 2026): A distributed system that simulates an unmanned vehicle streaming telemetry as Cursor-on-Target messages over UDP, with a ground station that tracks state and flags dropped, stale, and out-of-order packets. `C#` · `.NET` · `UDP` · `Serilog`
 
-## Certifications & awards
+## Certifications & Awards
 
 - [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=U16qeCFNQd6n5q1BHhc-4Q), NVIDIA (2024)
 - Deloitte Outstanding Performance Awards (2024, 2025), including one for the Cyber AI risk-scoring app
 - DoD Secret clearance (inactive, eligible for reactivation)
 
-## Setup & interests
+## Setup & Interests
 
 I work keyboard-first rather than mouse-first, and add voice where it's faster: I dictate with [Handy](https://github.com/cjpais/Handy) for talking through tasks with AI tools. For the keyboard side I use [Neovim](https://github.com/evwalt/dotfiles/tree/main/.config/nvim) and [Hammerspoon](https://github.com/evwalt/dotfiles/blob/main/.hammerspoon/init.lua) for window management, all in my [dotfiles](https://github.com/evwalt/dotfiles). I type in Dvorak on a tented [Lily58](https://github.com/kata0510/Lily58) with custom [QMK](https://qmk.fm) firmware, and use [Typst](https://typst.app) for structured PDFs.
 
 I've been a guest on [The React Show](https://www.thereactshow.com/podcast/from-a-career-in-logic-gates-to-react-with-evan-walter) to talk about my path from electrical engineering to software.
 
-## Outside software
+## Outside Software
 
 Hiking ⛰️, fitness 💪, travel ✈️, and time with family and friends 👨‍👩‍👧‍👦.
