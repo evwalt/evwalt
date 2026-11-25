@@ -14,12 +14,14 @@ Earlier, I shipped high-traffic e-commerce storefronts (Next.js/Vue) and React d
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, Python, and more
-- **Frontend:** React, Next.js
-- **Backend:** FastAPI, Flask, Node.js, REST APIs
-- **Cloud & data:** AWS (Lambda, S3, DynamoDB, App Runner), Terraform, Docker
-- **AI:** LLM APIs, structured output, AI-enabled automation
-- **Security:** JWT/OAuth, access control, SSRF defense, secret/PII redaction, threat modeling (STRIDE), SAST/SCA/secret-scanning CI
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Vue, Electron, Tailwind
+- **Backend:** FastAPI, Flask, Node.js, REST APIs, Kafka, gRPC
+- **Databases:** PostgreSQL (Neon, Supabase), MySQL, DynamoDB
+- **Cloud & DevOps:** AWS (Lambda, API Gateway, S3, App Runner, CDK), Cloudflare Workers, Terraform, Docker, GitHub Actions, Azure DevOps
+- **AI:** LLM APIs, structured output, RAG, on-device LLMs, MCP, agentic workflows, Claude Code
+- **Security:** JWT/OAuth, access control, Postgres Row-Level Security, SSRF defense, secret/PII redaction, threat modeling (STRIDE), OWASP Top 10 for LLMs, SAST/SCA/secret-scanning CI
+- **Integrations:** Stripe, Microsoft Graph
 
 ## Selected projects
 
@@ -34,7 +36,14 @@ A few more things I've built outside work:
 - [RLS Guard](https://rls-guard.evanwalter.dev/) (July 2026): A developer security tool that audits Supabase/Postgres projects for broken access control (missing or misconfigured Row-Level Security) and generates ready-to-run remediation SQL, with analysis running entirely in the browser. `Next.js` · `TypeScript` · `PostgreSQL` · `Supabase`
 - [opsflow-ai](https://github.com/evwalt/opsflow-ai) (August 2026): A full-stack app that turns unstructured operational requests into typed, schema-validated workflow and action-item objects using an LLM with structured output. `Next.js` · `TypeScript` · `LLM APIs` · `Zod`
 - [amazon-connect-contact-center](https://github.com/evwalt/amazon-connect-contact-center) (June 2026): A serverless Amazon Connect contact center that converts caller numbers to vanity numbers, ranks and stores them in DynamoDB, and shows recent call activity in a React dashboard. `Node.js` · `AWS Lambda` · `DynamoDB` · `API Gateway` · `AWS CDK` · `React`
+- [identity-sync-pipeline](https://github.com/evwalt/identity-sync-pipeline) (November 2026): An event-driven pipeline that syncs non-human identity changes (service accounts, API keys, AI agents) through Kafka into Postgres and serves access lookups over gRPC, with idempotent consumers, stale-event protection, and dead-letter handling. `Python` · `Kafka` · `PostgreSQL` · `gRPC`
 - [tactical-telemetry](https://github.com/evwalt/tactical-telemetry) (August 2026): A distributed system that simulates an unmanned vehicle streaming telemetry as Cursor-on-Target messages over UDP, with a ground station that tracks state and flags dropped, stale, and out-of-order packets. `C#` · `.NET` · `UDP` · `Serilog`
+
+## Certifications & awards
+
+- [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=U16qeCFNQd6n5q1BHhc-4Q), NVIDIA (2024)
+- Deloitte Outstanding Performance Awards (2024, 2025), including one for the Cyber AI risk-scoring app
+- DoD Secret clearance (inactive, eligible for reactivation)
 
 ## Setup & interests
 
